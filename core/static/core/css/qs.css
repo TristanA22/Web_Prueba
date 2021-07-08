@@ -1,0 +1,24 @@
+
+body{
+    margin: 0px;
+    padding:0px;
+    background: url(https://images6.alphacoders.com/371/thumb-1920-371656.jpg);    
+    background-size: cover;
+    background-position: center;
+}
+
+#titulo{
+    text-align: center;
+    color:white;
+    font-size: 60px;
+    
+ 
+    
+}
+
+#par_caja{
+    border:2px solid white;
+    font-size:30px;
+    text-align: center; 
+    color: white;
+}
